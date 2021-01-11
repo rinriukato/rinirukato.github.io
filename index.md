@@ -1,3 +1,8 @@
+theme: jekyll-theme-slate
+title: Welcome to rinriukato's homepage!
+description: Ginger is being developed, please be patient.
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/rinriukato/rinirukato.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
